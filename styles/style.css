@@ -95,6 +95,7 @@ ol {
   height: 100%;
   object-fit: cover;
   object-position: center;
+  cursor: pointer;
 }
 
 .content__video-card {
@@ -173,6 +174,7 @@ ol {
 .search-form__checkbox-list {
   display: flex;
   gap: 15px;
+  cursor: pointer;
 }
 
 .search-form__fieldset {
@@ -184,6 +186,7 @@ ol {
   align-items: center;
   width: fit-content;
   gap: 5px;
+  cursor: pointer;
 }
 
 .search-form__textfield {
@@ -251,6 +254,7 @@ ol {
   border: 1px solid #fff;
   padding: 6px 0;
   width: 100%;
+  cursor: pointer;
 }
 
 .search-form__submit-button {
